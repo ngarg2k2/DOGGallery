@@ -1,0 +1,38 @@
+body {
+    background-color: antiquewhite;
+}
+
+#header {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Recursive', sans-serif;
+}
+
+#border {
+    border: black 10px solid;
+}
+
+#btn {
+    margin-left: 30%;
+    position: absolute;
+    /* margin-bottom: 10%; */
+    margin-top: 13%;
+    height: 100px;
+    width: 200px;
+    font-size: large;
+}
+
+#img {
+    margin-left: 2%;
+    margin-top: 0.75%;
+    max-width: 536px;
+    max-height: 510px;
+}
+
+#contact {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Recursive', sans-serif;
+}
